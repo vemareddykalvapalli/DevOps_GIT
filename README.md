@@ -27,9 +27,6 @@ Select the Manage Jenkins link on the left hand side of the screen.
 Select the Configure System link.
 In the GitHub Web Hook section select the Let Jenkins auto-manage hook URLs option.
 Ensure you have provided at least one username and password for connecting to GitHub (the password is required as GitHub does not expose an API for managing the Post-Receive URLs).
-The second way is to manage the Post-Receive URLs yourself:
-github repository administration
-Go to your Jenkins instances root page.
 If your Jenkins instance has security enabled, login as a user who has the Overall | Administer permission.
 Select the Manage Jenkins link on the left hand side of the screen.
 Select the Configure System link.
