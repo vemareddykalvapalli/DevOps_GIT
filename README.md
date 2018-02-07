@@ -5,7 +5,6 @@ Jenkins 1.400 or newer
 Jenkins Git Plugin version 1.1.12 or newer
 At least one GitHub hosted project to build ;-)
 Step-by-Step Instructions on How to Use it
-Installation
 Go to your Jenkins instances root page.
 If your Jenkins instance has security enabled, login as a user who has the Overall | Administer permission.
 Select the Manage Jenkins link on the left-hand side of the screen.
