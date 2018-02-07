@@ -1,6 +1,5 @@
 # DevOps_GIT
 Learning Git
-http://52.41.8.94:8080/github-webhook/http://52.41.8.94:8080/github-webhook/http://52.41.8.94:8080/github-webhook/http://52.41.8.94:8080/github-webhook/http://52.41.8.94:8080/github-webhook/http://52.41.8.94:8080/github-webhook/http://52.41.8.94:8080/github-webhook/http://52.41.8.94:8080/github-webhook/http://52.41.8.94:8080/github-webhook/http://52.41.8.94:8080/github-webhook/
 There are not too many requirements for using this plugin:
 Jenkins 1.400 or newer
 Jenkins Git Plugin version 1.1.12 or newer
