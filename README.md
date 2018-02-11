@@ -49,8 +49,6 @@ If all you want to do is enable the hyperlinks in the Recent Changes for the bui
 Goto your Jenkins instance job.
 Select the Configure link on the left hand side of the screen.
 In the GitHub project field, enter the URL of the GitHub project. If your GitHub project's git URL looks like: git@github.com:username/project.git,
-
-then the GitHub project should be: http://github.com/username/project/or if the project is private, you can get faster navigation with: https://github.com/username/project/
 If you want to enable build triggering, you need to configure your Jenkins instance for receiving the push notifications from GitHub. There are two ways you can achieve this. The first way is to let Jenkins manage the Post-Receive URLs for you:
 Configure System Jenkins
 Go to your Jenkins instances root page.
