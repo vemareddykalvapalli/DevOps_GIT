@@ -10,9 +10,6 @@ If your Jenkins instance has security enabled, login as a user who has the Overa
 Select the Manage Jenkins link on the left-hand side of the screen.
 Select the Manage Plugins link.
 On the Available tab, select the Github Plugin and click the Download and Install button at the bottom of the page (if you do not got the Git Plugin installed, do not worry, Jenkins is smart enough to install/upgrade the Git plugin, where required).
-Restart Jenkins once the plugins are downloaded (Note: users of Jenkins 1.442 or newer should be aware that the plugin currently requires a restart to function correctly).
-If all you want to do is enable the hyperlinks in the Recent Changes for the build, it is just a case of providing the GitHub project URL in the Jenkins job configuration, e.g.
-Goto your Jenkins instance job.
 Select the Configure link on the left hand side of the screen.
 In the GitHub project field, enter the URL of the GitHub project. If your GitHub project's git URL looks like: git@github.com:username/project.git,
 If you want to enable build triggering, you need to configure your Jenkins instance for receiving the push notifications from GitHub. There are two ways you can achieve this. The first way is to let Jenkins manage the Post-Receive URLs for you:
