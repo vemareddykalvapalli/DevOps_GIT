@@ -1,4 +1,4 @@
-# DevOps_GIT
+
 Learning Git
 There are not too many requirements for using this plugin:
 Jenkins 1.400 or newer
