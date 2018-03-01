@@ -1,3 +1,150 @@
-test branch 0
-test branch first
-created one branch
+Jenkins
+Blog
+Documentation 
+Plugins
+Use-cases 
+Participate
+Sub-projects
+Resources 
+About 
+ 
+ 
+Jenkins
+Build great things at any scale
+
+The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
+
+Say “hello” to Blue Ocean
+Blue Ocean is a new user experience that puts Continuous Delivery in reach of any team — without sacrificing the power and sophistication of Jenkins.
+
+ 
+Continuous Integration and Continuous Delivery
+As an extensible automation server, Jenkins can be used as a simple CI server or turned into the continuous delivery hub for any project.
+
+Easy installation
+Jenkins is a self-contained Java-based program, ready to run out-of-the-box, with packages for Windows, Mac OS X and other Unix-like operating systems.
+
+Easy configuration
+Jenkins can be easily set up and configured via its web interface, which includes on-the-fly error checks and built-in help.
+
+Plugins
+With hundreds of plugins in the Update Center, Jenkins integrates with practically every tool in the continuous integration and continuous delivery toolchain.
+
+Extensible
+Jenkins can be extended via its plugin architecture, providing nearly infinite possibilities for what Jenkins can do.
+
+Distributed
+Jenkins can easily distribute work across multiple machines, helping drive builds, tests and deployments across multiple platforms faster.
+
+Mar 1 Thu
+7:00 pm
+Breizh JAM
+The "as code" paradigm is about being able to reproduce and/or restore a full environment within minutes based on recipes and automation, managed as code.
+
+ 
+Mar 1 Thu
+7:00 pm
+Washington DC JAM
+Happy New Year! We are kicking off 2018 with an Online Meetup on March 1st.
+
+ 
+Mar 7 Wed
+6:00 pm
+Philadelphia JAM
+March 2018 Philadelphia JAM
+
+ 
+Mar 14 Wed
+6:00 pm
+Triangle Area JAM
+We are currently looking for speakers for this Triangle Jenkins Area Meetup.
+
+ 
+Mar 19 Mon
+6:30 pm
+Jenkins Oslo
+Day of Cloud Native warm-up!
+
+ 
+Mar 20 Tue
+7:30 pm
+DFW JAM
+This month, Andrew Bayer will preset: Declarative Pipelines: Tips, Tricks, and Gotchas
+
+Recent Blog Posts
+Feb
+22
+ Project Cheetah - Faster, Leaner Pipeline That Can Keep Up With Demand
+Table of Contents Introducing "Project Cheetah" Yes, but what does it DO? How Do I Set Speed/Durability Settings? 1. Globally, you can choose a global default durability setting: 2. Each Pipeline can get a custom Durability Setting: 3. Multibranch Projects can use a new BranchProperty to customize the Durability Setting. Will Performance-Optimized Mode Help Me? Other Goodies How Did You Do It? What Next? This is a guest post by Sam Van Oort, Software Engineer at...
+
+Sam Van Oort
+pipeline  performance  scalability
+Feb
+19
+ Jenkins is accepted to Google Summer Of Code 2018, join us!
+We are happy to announce that Jenkins project has been accepted to Google Summer of Code 2018. This year we invite students and mentors to join the Jenkins community and work together on various initiatives: core, plugins, development tools and infrastructure. Our mentors have already created some project ideas. For example, you are welcome to work on the new Configuration-as-Code initiative or to help creating standard API for Code Coverage...
+
+Oleg Nenashev
+gsoc  gsoc2018  events  community
+Feb
+14
+ Security updates for Jenkins core
+We just released security updates to Jenkins, versions 2.107 and 2.89.4, that fix multiple security vulnerabilities. For an overview of what was fixed, see the security advisory. For an overview on the possible impact of these changes on upgrading Jenkins LTS, see our LTS upgrade guide. While the severity score works out as medium for all the vulnerabilities, we strongly recommend that anyone operating publicly accessible Jenkins...
+
+Daniel Beck
+core  security
+Feb
+05
+ Security updates for multiple Jenkins plugins
+Multiple Jenkins plugins received updates today that fix several security vulnerabilities. Android Lint CCM Credentials Binding JUnit Pipeline: Supporting APIs For an overview of these security fixes, see the security advisory. Subscribe to the jenkinsci-advisories mailing list to receive important future notifications related to Jenkins security....
+
+Daniel Beck
+plugins  security
+Jan
+26
+ You are invited to the Post-FOSDEM 2018 Jenkins Hackfest
+On the first weekend in February, numerous free and open source developers from around the world will travel to Brussels, Belgium, for arguably the largest event of its kind: FOSDEM. Among the thousands of hackers in attendance will be a number of Jenkins contributors. On the Monday after FOSDEM, you are invited to join a group of those contributors for a full day of hacking on Jenkins. Folks of all...
+
+Liam Newman
+fosdem  event
+Jan
+21
+ Overhaul of Manage Jenkins page
+Overview Recently some UI improvements around the Manage Jenkins page have been introduced. The visual changes are very subtle but behind them, there are interesting benefits. Some of the goals that we have tried to achieve: Applying a semantic HTML Removing the <table> tag usage for implementing layouts and content structures. Read this article if you want to know reasons and/or arguments. Small re-styling focused on spacing, margins, composition,...
+
+recena
+jenkins  ui  restyling  upgrade
+Jan
+17
+ Jenkins World 2018: Call for Papers is Open
+This is a guest post by Alyssa Tong, who runs the Jenkins Area Meetup program and is also responsible for Marketing & Community Programs at CloudBees, Inc. Happy 2018! The Jenkins World train is ready to take off once again. As usual, the sign of festivities looming begins with the Call for Papers. Those who attended Jenkins World 2017 know that Jenkins World 2018 is coming...
+
+Alyssa Tong
+event  jenkinsworld
+Jan
+13
+ JEP-200: Remoting / XStream whitelist integrated into Jenkins core
+Overview JEP-200 has been integrated into Jenkins weekly builds and (if all goes well) will be a part of the next LTS line. In a nutshell, this change is a security hardening measure to be less permissive about deserializing Java classes defined in the Java Platform or libraries bundled with Jenkins. For several years now, Jenkins has specifically blacklisted certain classes and packages according to known or suspected exploits; now...
+
+Jesse Glick
+core  security  remoting  upgrade
+Jan
+08
+ Moving from buddybuild to Jenkins for Android Developers
+Last week, buddybuild — a hosted continuous integration service focused on mobile apps — announced that it had been acquired by Apple, and consequently its complete Android offering, along with its free tier for iOS users, will be discontinued at the beginning of March. This was a fairly undesirable way to start 2018 for buddybuild’s Android users and, with less than two months to find...
+
+Christopher Orr
+android  plugins
+Jan
+06
+ Google Summer Of Code 2018: Call for mentors
+This year the Jenkins project is interested in participating in Google Summer of Code (GSoC). As in 2016/2017, we are looking for mentors. So yes, we are looking for you :) What is GSoC? GSoC is an annual international program which encourages college-aged students to participate with open source projects during the summer break between classes. Students accepted into the program receive a stipend, paid by Google, to work on well-defined projects to...
+
+Oleg Nenashev
+gsoc  gsoc2018  events  community
+We thank the following organizations for their major commitments to support the Jenkins project.
+
+ Microsoft Azure  CloudBees, Inc.  Oregon State University Open Source Lab Rackspace, Inc.  RedHat, Inc.
+We thank the following organizations for their support of the Jenkins project through free and/or open source licensing programs.
+
+Atlassian Datadog JFrog Mac Cloud PagerDuty XMission
