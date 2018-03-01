@@ -98,19 +98,4 @@ For each project that you want to have triggering builds, you need to open the R
 Select the Service Hooks tab.
 Select the Post-Receive URLs hook.
 Add the URL, which will be the root URL of your Jenkins instance with /github-webhook appended.
-Jt
-kf
-
-y
-
-yu
-
-y
-gh
-g
-g
-g
 gjjgenkins instanceonce you have configured your jenkins instance for receiving the push notifications, you can enable jobs being triggered via the push notifications.
-
-
-
