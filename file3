@@ -7,18 +7,13 @@ Participate
 Sub-projects
 Resources 
 About 
- 
- 
 Jenkins
 Build great things at any scale
 
 The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
 
 Say “hello” to Blue Ocean
-Blue Ocean is a new user experience that puts Continuous Delivery in reach of any team — without sacrificing the power and sophistication of Jenkins.
-
- 
-Continuous Integration and Continuous Delivery
+Blue Ocean is a new user experience that puts Continuous Delivery in reach of any team — without sacrificing the power and sophistication of Jenkins.Continuous Integration and Continuous Delivery
 As an extensible automation server, Jenkins can be used as a simple CI server or turned into the continuous delivery hub for any project.
 
 Easy installation
