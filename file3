@@ -55,7 +55,7 @@ DFW JAM
 This month, Andrew Bayer will preset: Declarative Pipelines: Tips, Tricks, and Gotchas
 
 Recent Blog Posts
-Feb
+
 22
  Project Cheetah - Faster, Leaner Pipeline That Can Keep Up With Demand
 Table of Contents Introducing "Project Cheetah" Yes, but what does it DO? How Do I Set Speed/Durability Settings? 1. Globally, you can choose a global default durability setting: 2. Each Pipeline can get a custom Durability Setting: 3. Multibranch Projects can use a new BranchProperty to customize the Durability Setting. Will Performance-Optimized Mode Help Me? Other Goodies How Did You Do It? What Next? This is a guest post by Sam Van Oort, Software Engineer at...
